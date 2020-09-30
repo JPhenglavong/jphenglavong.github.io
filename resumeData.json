@@ -120,10 +120,10 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Smart Water",
-        "category":"School project",
-        "image":"",
-        "url":""
+        "title":"Eco Pipe",
+        "category":"School Project",
+        "image":"Ecopipe.jpg",
+        "url":"https://docs.google.com/presentation/d/1p_CHMQ-HUV4pOJBzMMg_m9miEnQucisTunvRFWGxBsI/edit?usp=sharing"
       }
     ]
   }
