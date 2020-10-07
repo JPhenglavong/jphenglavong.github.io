@@ -40,49 +40,49 @@
         "company":"Intuitive",
         "title":"MRMA Failure Analysis Technician",
         "years":"July 2020 - Present",
-        "description":" ."
+        "description":"Executing stress tests to determine functionality and points of failures within robotic systems."
       },
       {
         "company":"Allied Universal",
         "title":"DoD Cleared Security Officer",
         "years":"January 2020 - June 2020",
-        "description":" ."
+        "description":"Ensured the security of DoD classified government data and technology with minimal to no supervision."
       },
       {
         "company":"San Jose Water",
         "title":"Information Systems Intern",
         "years":"July 2019 - November 2019",
-        "description":" ."
+        "description":"Extract, transform and loaded (ETL) data into integration platform to cross-reference data from DB and inspection form API to push alert notifications based on missing inspection forms. Also ETL'd geographic information system (GIS) data from database into RESTful web application programming interface (API) in order to pre-fill asset information for field users to easily identify, open and complete work on assets around San Jose area."
       },
       {
         "company":"General Dynamics Mission Systems",
         "title":"Software Engineer Intern",
         "years":"May 2018 - August 2018",
-        "description":" ."
+        "description":"Optimized runtime and added functionality to shapes for a Qt military overlay program using C++/QML."
       },
       {
         "company":"Allied Universal",
         "title":"DoD Cleared Security Officer",
         "years":"July 2016 - August 2018",
-        "description":" ."
+        "description":"Patrolled an around the clock operated manufacturing site overlooking up to 30 employees at a time as a 2 man CCTV/patrol team."
       },
       {
         "company":"Purple Kow",
         "title":"Shift Lead",
         "years":"August 2015 - December 2016",
-        "description":" ."
+        "description":"Coordinated shift activities and played a versatile role wherever help was needed."
       },
       {
         "company":"Safeway",
         "title":"Meat Clerk",
         "years":"April 2015 - September 2015",
-        "description":" ."
+        "description":"Teamed with and learned from multiple departments in the store to provide exceptional customer service on an individual and collective level."
       },
       {
         "company":"Mt. Pleasant High School",
         "title":"Math Tutor",
         "years":"December 2012 - May 2013",
-        "description":" ."
+        "description":"Tutored struggling students one on one in Algebra and Geometry."
       }
     ],
     "skills":[
